@@ -10,4 +10,4 @@ opencv-python==4.9.0.80
 pandas==2.0.3
 tensorflow
 tensorflow-hub==0.16.1
-Pillow==9.4.0
+Pillow
